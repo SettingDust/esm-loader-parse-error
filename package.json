@@ -1,0 +1,12 @@
+{
+  "name": "esm-loader-parse-error",
+  "packageManager": "yarn@3.3.0",
+  "scripts": {
+    "start:tsx": "tsx index.ts"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@minify-html/wasm": "^0.10.3",
+    "tsx": "^3.12.1"
+  }
+}
